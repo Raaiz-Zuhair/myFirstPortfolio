@@ -377,6 +377,7 @@ footer p {
   .nav-div {
     display: flex;
     justify-content: center;
+    padding: 25px 35px;
   }
   .nav-menu {
     display: none;
@@ -388,6 +389,7 @@ footer p {
     align-items: center;
     margin-top: 20px;
     margin-bottom: 50px;
+    padding: 0 35px;
   }
   .img-div {
     display: flex;
@@ -415,6 +417,7 @@ footer p {
   .skills {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
+    padding: 0 35px;
   }
 
   .card-txt button{
@@ -424,6 +427,7 @@ footer p {
   .service-container {
     margin-top: 0;
     margin-bottom: 60px;
+    padding: 0 35px;
   }
 
   .service-h2 {
@@ -469,9 +473,12 @@ footer p {
   .social-media {
     margin-bottom: 60px;
     grid-template-columns: repeat(1, 1fr);
+    padding: 0 35px;
   }
   .footer-div{
     flex-direction: column;
+    padding: 50px 35px;
+
   }
   .footer-div-left{
     width: 100%;
